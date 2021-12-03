@@ -5,3 +5,5 @@ const App = () => {
         Placeholder
     </div>
 }
+
+export default App;
