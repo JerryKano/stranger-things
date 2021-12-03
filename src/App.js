@@ -1,9 +1,12 @@
 import React from 'react';
 
 const App = () => {
+
+    return (
     <div>
-        Placeholder
+        Welcome to Strangers' Things!
     </div>
+    )
 }
 
 export default App;
