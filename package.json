@@ -24,5 +24,17 @@
   "bugs": {
     "url": "https://github.com/JerryKano/stranger-things/issues"
   },
-  "homepage": "https://github.com/JerryKano/stranger-things#readme"
+  "homepage": "https://github.com/JerryKano/stranger-things#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
